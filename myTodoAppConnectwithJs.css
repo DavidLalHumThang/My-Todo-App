@@ -1,0 +1,48 @@
+.addTodoss{
+    background-color: rgb(86, 86, 173);
+    color:white;
+    padding-top:5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border:none;
+    border-radius: 15px;
+
+
+}
+
+.addTodoss:hover{
+    opacity:0.9 ;
+    transition: 0.003s;
+}
+
+.addTodoss:active{
+    opacity:0.7;
+    transition: 0.003s;
+}
+
+.ChangeStyle{
+    background-color: rgb(116, 116, 194);
+    border:none;
+    margin-left:10px;
+    color:white;
+    padding-top:3px;
+    padding-bottom: 3px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 15px;
+}
+
+.ChangeStyle{
+    opacity:0.9 ;
+    transition: 0.003s;
+}
+
+.ChangeStyle:active{
+    opacity:0.6;
+    transition: 0.003s;
+}
+
+#displayID{
+    padding-top:5px;
+}
